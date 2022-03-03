@@ -1,6 +1,6 @@
 ## 2022-BSC-ChainIDE-Developer-Bootcamp Github PR Submission Guide ##
 
- **PR Submission Deadline: March 04 2022, 23:59 PST PST**
+ **PR Submission Deadline: March 0 2022, 23:59 PST PST**
 
 **1. [Create a Github account.](https://github.com/)**
 
