@@ -12,11 +12,11 @@
 
 Best dApp on Binance Blockchain Chain
 
-1st place: $2500
+1st prize: $2500
 
-2nd place: $1500
+2nd prize: $1500
 
-3rd place: $1000
+3rd prize: $1000
 
 ------------------------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Best dApp on Binance Blockchain Chain
 
 **Registration DDL:Feb. 18th, 18:00 PST**
 
-**Submition DDL March 04, 23:59 PST**
+**Submition DDL March 06, 23:59 PST**
